@@ -1,0 +1,48 @@
+﻿body{
+	background: url("imagenes/pentagrama.png");
+	font-family:calibri,verdana,arial;
+	font-weight: bold;
+}
+audio{
+	position: absolute;
+	bottom: 5px;
+	}
+
+.tipo{
+	font-size: 20pt;
+	color:black;
+	}
+.posicionador{
+	float: right;
+	   }
+	   
+#web{
+	width : 80% ;
+	margin : 0px auto ;
+	text-align : left ;
+	}
+#cabecera{
+	text-align : center;
+	background-color:#AAB2E3;
+	color: #0C7DF5;
+	}		
+#columna1{
+	float:left;
+	width: 45%;
+	min-width: 380px;
+	margin: 10px auto;
+	text-align: left ;
+	color:blue;
+	}
+#columna2{
+	float:right;
+	width: 45%;
+	min-width: 380px;
+	margin: 10px auto;
+	text-align: left ;
+	color:blue;
+	}
+.subcuadro{
+	position:relative;
+	height:530px;
+	}	
